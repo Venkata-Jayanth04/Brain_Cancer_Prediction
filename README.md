@@ -1,1 +1,36 @@
-# Brain_Cancer_Prediction
+# Brain-Cancer-Prediction
+
+## Overview
+Brain cancer is a serious medical condition that requires early and accurate diagnosis for effective treatment.  
+This project uses a **Convolutional Neural Network (CNN)** to classify MRI brain images into three categories:
+- **Brain Glioma**
+- **Brain Meningioma**
+- **Brain Tumor**
+
+The model is trained on a labeled dataset of MRI scans and achieves high accuracy in detecting these cancer types.
+
+---
+
+## Features
+- Classification of MRI images into three categories (Glioma, Meningioma, Tumor).
+- High accuracy using deep learning-based CNN architecture.
+- Visualization of training vs. test accuracy and loss.
+- Confusion matrix to evaluate classification performance.
+- Ready-to-use Jupyter Notebook with code and outputs.
+
+---
+
+## Technologies Used
+- **Python**
+- **TensorFlow** (Deep Learning framework)
+- **Keras** (Model building and training)
+- **NumPy** (Numerical computations)
+- **Matplotlib** & **Seaborn** (Data visualization)
+- **Scikit-learn** (Performance metrics and evaluation)
+- **Jupyter Notebook** (Development environment)
+
+---
+
+## Installation
+```bash
+pip install -r requirements.txt
