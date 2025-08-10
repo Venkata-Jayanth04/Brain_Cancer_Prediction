@@ -31,10 +31,6 @@ The model is trained on a labeled dataset of MRI scans and achieves high accurac
 
 ---
 
-## Installation
-```bash
-pip install -r requirements.txt
-
 ## Model Performance
 
 ### Summary
@@ -43,4 +39,5 @@ pip install -r requirements.txt
 - **Training Loss:** ~0.02
 - **Validation Loss:** ~0.24
 
-### Training Log
+## Installation
+- pip install -r requirements.txt
