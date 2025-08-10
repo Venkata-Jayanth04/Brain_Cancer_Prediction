@@ -46,5 +46,5 @@ The model is trained on a labeled dataset of MRI scans and achieves high accurac
 ##### git clone https://github.com/Venkata-Jayanth04/Brain_Cancer_Prediction.git
 
 ## Project Outputs:
-<img width="679" height="574" alt="Screenshot 2025-08-10 161754" src="https://github.com/user-attachments/assets/358912e4-4d15-4df4-915e-6bf036b05c0c" width = 500/>
+<img width="500" height="500" alt="Screenshot 2025-08-10 161754" src="https://github.com/user-attachments/assets/358912e4-4d15-4df4-915e-6bf036b05c0c" />
 
