@@ -4,7 +4,7 @@
 Brain cancer is a serious medical condition that requires early and accurate diagnosis for effective treatment.  
 This project uses a **Convolutional Neural Network (CNN)** to classify MRI brain images into three categories:
 - **Brain Glioma**
-- **Brain Menin**
+- **Brain Meningioma**
 - **Brain Tumor**
 
 The model is trained on a labeled dataset of MRI scans and achieves high accuracy in detecting these cancer types.
