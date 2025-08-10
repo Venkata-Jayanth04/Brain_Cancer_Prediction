@@ -34,3 +34,13 @@ The model is trained on a labeled dataset of MRI scans and achieves high accurac
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+## Model Performance
+
+### Summary
+- **Train Accuracy:** 99.01%
+- **Test Accuracy:** 93.48%
+- **Training Loss:** ~0.02
+- **Validation Loss:** ~0.24
+
+### Training Log
