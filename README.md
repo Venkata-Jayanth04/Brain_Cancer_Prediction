@@ -31,6 +31,9 @@ The model is trained on a labeled dataset of MRI scans and achieves high accurac
 
 ---
 
+## Installation
+- pip install -r requirements.txt
+
 ## Model Performance
 
 ### Summary
@@ -39,5 +42,5 @@ The model is trained on a labeled dataset of MRI scans and achieves high accurac
 - **Training Loss:** ~0.02
 - **Validation Loss:** ~0.24
 
-## Installation
-- pip install -r requirements.txt
+## To clone the GitHub repository:
+##### git clone https://github.com/Venkata-Jayanth04/Drowsiness-Detection.git
