@@ -43,4 +43,4 @@ The model is trained on a labeled dataset of MRI scans and achieves high accurac
 - **Validation Loss:** ~0.24
 
 ## To clone the GitHub repository:
-##### git clone https://github.com/Venkata-Jayanth04/Drowsiness-Detection.git
+##### git clone https://github.com/Venkata-Jayanth04/Brain_Cancer_Prediction.git
